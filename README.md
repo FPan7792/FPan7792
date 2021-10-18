@@ -8,7 +8,7 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"  width="20"  >
 </div>
 
-### My technologies :
+### My mastered technologies :
 
 <div>
 <img src="https://ih1.redbubble.net/image.300211076.5701/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"  width="40"  >
