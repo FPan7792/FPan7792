@@ -30,7 +30,7 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 
 **MongoDB - Heroku - Netlify - Stripe .**
 
-**Axios - ReactQuery - NPM - Express - Pupeeter .**
+**Axios - ReactQuery - NPM/Yarn - ExpressJs - Pupeeter .**
 
 </div>
 
