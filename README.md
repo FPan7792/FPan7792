@@ -1,6 +1,6 @@
 # Hi Code 💻
 
-## **Présentation**
+**Présentation**
 
 Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REACTJS**
 <div>
@@ -34,7 +34,7 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 
 </div>
 
-## **Current projects** :
+### **Current projects** :
 
 \*\*\* <span style="text-decoration: underline "> Now working on</span> :
 <strong> Projet TEAMIFY </strong>
