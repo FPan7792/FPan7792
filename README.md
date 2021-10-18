@@ -8,7 +8,7 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"  width="20"  >
 </div>
 
-### Mes technos :
+### My technologies :
 
 <div>
 <img src="https://ih1.redbubble.net/image.300211076.5701/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"  width="40"  >
@@ -41,3 +41,7 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 
 \*\*\* <strong> Now Looking for an internship </strong>
 in order to <span style="text-decoration: underline "> validate my diploma </span>
+
+_Contact me for some new projects !  :_ 
+
+📞   06 14 80 25 74 || 📬   fr.panou@gmail.com.
