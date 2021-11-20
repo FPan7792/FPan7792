@@ -39,13 +39,20 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 \*\*\* <span style="text-decoration: underline "> Now working on</span> :
 <strong> Projet TEAMIFY </strong>
 
+\*\*\* <span style="text-decoration: underline "> Now learning </span> :
+<strong> TypeScript </strong> //
+<strong> Wordpress </strong>
+
+
+
 \*\*\* <strong> Now Looking for an internship </strong>
 in order to <span style="text-decoration: underline "> validate my diploma </span>
 
-_Contact me for some new projects !  :_ 
+_Contact me for some new projects we could achieve together !  :_ 
 
 📞   06 14 80 25 74 || 📬   fr.panou@gmail.com.
 
 _Visit my website :_ 
 
 https://franckpanoudeveloppeur.netlify.app/
+
