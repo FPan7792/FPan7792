@@ -26,11 +26,11 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 </div>
 
   
-**React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs .**
+**React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs - JQuery .**
 
 **MongoDB - Heroku - Netlify - Stripe .**
 
-**Axios - ReactQuery - NPM/Yarn - ExpressJs - Pupeeter .**
+**Axios - ReactQuery - NPM/Yarn/PNPM - ExpressJs - Pupeeter -  .**
 
 </div>
 
