@@ -40,7 +40,7 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 <strong> Projet TEAMIFY </strong>
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
-<strong> Wordpress </strong>
+<strong> Wordpress </strong> //
 <strong> Docker </strong>
 
 
