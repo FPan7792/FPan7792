@@ -26,7 +26,7 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 </div>
 
   
-**React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs - JQuery .**
+**React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs - JQuery - TypeScript .**
 
 **MongoDB - Heroku - Netlify - Stripe .**
 
@@ -40,8 +40,8 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 <strong> Projet TEAMIFY </strong>
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
-<strong> TypeScript </strong> //
 <strong> Wordpress </strong>
+<strong> Docker </strong>
 
 
 
