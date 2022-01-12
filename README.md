@@ -56,3 +56,7 @@ _Visit my website :_
 
 https://franckpanoudeveloppeur.netlify.app/
 
+_Read my articles about programming and other various topics :_
+
+https://medium.com/@fr.panou
+
