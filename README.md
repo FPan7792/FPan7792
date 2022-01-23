@@ -40,6 +40,8 @@ Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REA
 <strong> Projet TEAMIFY : </strong>
 https://teamify-me.web.app
 
+(Please visit the repo for more infos about this project : https://github.com/FPan7792/teamify-project#readme)
+
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
 <strong> Wordpress </strong> //
