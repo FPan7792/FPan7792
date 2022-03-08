@@ -2,7 +2,7 @@
 
 ## ***Who am I***
 
-Franck P. || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REACTJS**
+**Franck P.** || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REACTJS**
 <div>
 <img src="https://www.iim.fr/ecole-web/wp-content/uploads/2017/01/HTML5.jpg"  height="20"  > 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"  width="20"  >
