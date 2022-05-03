@@ -28,7 +28,7 @@
   
 **React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs - JQuery - TypeScript .**
 
-**MongoDB - Heroku - Netlify - Stripe .**
+**MongoDB - Heroku - Netlify - Stripe - Firebase - Strapi .**
 
 **Axios - ReactQuery - NPM/Yarn/PNPM - ExpressJs - Pupeeter -  .**
 
