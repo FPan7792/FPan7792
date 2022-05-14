@@ -26,40 +26,44 @@
 </div>
 
   
-**React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs - JQuery - TypeScript .**
+**React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs - JQuery - TypeScript - Docker .**
 
-**MongoDB - Heroku - Netlify - Stripe - Firebase - Strapi .**
+**MongoDB - Heroku - Netlify - Stripe - Firebase - Strapi - Cloudflare .**
 
-**Axios - ReactQuery - NPM/Yarn/PNPM - ExpressJs - Pupeeter -  .**
+**Axios - ReactQuery - NPM/Yarn/PNPM - ExpressJs - Pupeeter .**
 
 </div>
 
 ## **Current projects** :
 
 \*\*\* <span style="text-decoration: underline "> Now working on</span> :
-<strong> Projet TEAMIFY : </strong>
-https://teamify-me.web.app
+<strong> GROUPOMANIA project (Professionnal Social Network) </strong>
+
 
 (Please visit the repo for more infos about this project : https://github.com/FPan7792/teamify-project#readme)
 
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
 <strong> Wordpress </strong> //
-<strong> Docker </strong> //
-<strong> WEBDESIGN SKILLS </strong>
+<strong> WEBDESIGN SKILLS </strong> //
+<strong> POSTGRESQL </strong>
 
 
 
 \*\*\* <strong> Now Looking for an internship </strong>
 in order to <span style="text-decoration: underline "> validate my diploma </span>
 
-## **_Contact me for some new projects we could achieve together !  :_** 
+#### **_Contact me for some new projects we could achieve together !  :_** 
 
 📞   06 14 80 25 74 || 📬   fr.panou@gmail.com.
 
 ### _Visit my website :_ 
 
 https://franckpanoudeveloppeur.netlify.app/
+
+### _Visit my project :_ 
+
+TEAMIFY: https://teamify-me.web.app/
 
 ### _Read my articles about programming and other various topics :_
 
