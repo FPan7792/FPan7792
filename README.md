@@ -40,8 +40,6 @@
 <strong> GROUPOMANIA project (Professionnal Social Network) </strong>
 
 
-(Please visit the repo for more infos about this project : https://github.com/FPan7792/teamify-project#readme)
-
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
 <strong> Wordpress </strong> //
@@ -64,6 +62,8 @@ https://franckpanoudeveloppeur.netlify.app/
 ### _Visit my project :_ 
 
 TEAMIFY: https://teamify-me.web.app/
+
+(Please visit the repo for more infos about this project : https://github.com/FPan7792/teamify-project#readme)
 
 ### _Read my articles about programming and other various topics :_
 
