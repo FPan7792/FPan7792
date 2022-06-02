@@ -50,20 +50,29 @@
 
 \*\*\* <strong> Now Looking for an internship </strong>
 in order to <span style="text-decoration: underline "> validate my diploma </span>
+<br/><br/>
 
 #### **_Contact me for some new projects we could achieve together !  :_** 
 
 📞   06 14 80 25 74 || 📬   fr.panou@gmail.com.
+<br/><br/>
 
 ### _Visit my website :_ 
 
 https://franckpanoudeveloppeur.netlify.app/
+<br/><br/>
 
-### _Visit my project :_ 
+### _Visit my projects :_
 
-TEAMIFY: https://teamify-me.web.app/
+<strong>
+TEAMIFY
+</strong> : https://teamify-me.web.app/
+(Please visit the repo for more infos about this project : https://github.com/FPan7792/teamify-project#readme).
+<br/><br/>
+<strong>NaruQuotes</strong> : https://naruquotes-app.vercel.app/
+(Please visit the repo for more infos about this project : https://github.com/FPan7792/NaruQuotes-App#readme).
+<br/><br/>
 
-(Please visit the repo for more infos about this project : https://github.com/FPan7792/teamify-project#readme)
 
 ### _Read my articles about programming and other various topics :_
 
