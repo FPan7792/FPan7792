@@ -44,7 +44,7 @@
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
 <strong> Wordpress </strong> //
 <strong> WEBDESIGN SKILLS </strong> //
-<strong> POSTGRESQL </strong>
+<strong> MySQL </strong>
 
 
 
