@@ -34,23 +34,16 @@
 
 </div>
 
-## **Current projects** :
-
-\*\*\* <span style="text-decoration: underline "> Now working on</span> :
-<strong> GROUPOMANIA project (Professionnal Social Network) </strong>
-
 
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
 <strong> Wordpress </strong> //
 <strong> WEBDESIGN SKILLS </strong> //
-<strong> MySQL </strong>
 
 
 
-\*\*\* <strong> Now Looking for an internship </strong>
-in order to <span style="text-decoration: underline "> validate my diploma </span>
-<br/><br/>
+
+\*\*\* <strong> Now Looking for an permanent job </strong>
 
 #### **_Contact me for some new projects we could achieve together !  :_** 
 
@@ -71,6 +64,9 @@ TEAMIFY
 <br/><br/>
 <strong>NaruQuotes</strong> : https://naruquotes-app.vercel.app/
 (Please visit the repo for more infos about this project : https://github.com/FPan7792/NaruQuotes-App#readme).
+<br/><br/>
+<strong>Groupomania Social Network</strong>
+(Please visit the repo for more infos about this project : https://github.com/FPan7792/Groupomania_App).
 <br/><br/>
 
 
