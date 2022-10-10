@@ -37,9 +37,8 @@
 
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
-<strong> Wordpress </strong> //
 <strong> WEBDESIGN SKILLS </strong> //
-<strong> DOCKER </strong> //
+<strong> Testing </strong> //
 
 
 
