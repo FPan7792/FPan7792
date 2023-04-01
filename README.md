@@ -38,11 +38,10 @@
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
 <strong> WEBDESIGN SKILLS </strong> //
-<strong> Testing </strong> //
 
 
 
-\*\*\* <strong> Now Looking for an permanent job </strong>
+\*\*\* <strong> Now Looking for new challenges </strong>
 
 #### **_Contact me for some new projects we could achieve together !  :_** 
 
