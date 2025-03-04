@@ -1,32 +1,42 @@
 # 💻 Franck is now typing ... CODE 👨🏾‍💻
 
-## ***Who am I***
+## ***Who am I ?***
 
-**Franck P.** || Developpeur FullStack **JAVASCRIPT** || Spécialiste **FrontEnd REACTJS - Vue JS**
-<div>
-<img src="https://www.iim.fr/ecole-web/wp-content/uploads/2017/01/HTML5.jpg"  height="20"  > 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"  width="20"  >
-</div>
+Hey welcome 👋 I'm [Franck](https://www.linkedin.com/in/franck-panou/). Front end oriented dev
 
-## My mastered technologies :
+What is important to know about me :
+- I'm a curious and concerned dev and human.
+- I love javascript and my secret dream is to uncover all these secrets.
+- I have a strong interest for optimising user's xp of web navigation and I have collected a significant experience in UX/UI and webdesign through my passed jobs.
+- I love beautiful visuals, and I'm a photographer in my spare time.
+- I still and always want to improve my techniques level (My mother says my grandfather had Saiyan blood).
+- I always love fun and positive things.
+
+For any questions you may have about me or if you’d like to discuss a project you have in mind, feel free to contact me.
+
+### My experienced technologies as tech engineer :
 
 <div>
 <img src="https://ih1.redbubble.net/image.300211076.5701/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"  width="40"  >
 
-<img src="https://img.stackshare.io/service/7374/react-redux.png"  height="40"  >
-
 <img src="https://res.cloudinary.com/escuela-frontend/image/upload/v1624399800/tags/nextjs.png"  height="40"  >
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png"  height="40"  >
 
 <img src="https://ih1.redbubble.net/image.404020083.1876/pp,504x498-pad,600x600,f8f8f8.u7.jpg"  height="40"  >
 
-<img src="https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1"  height="40"  >
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg"  width="60"  >
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uoxh_i09Kql4OVB5AjetPvijl-mxrxkTYpojSZnE1ktqBQPKiG67syvAYntqQO-_QhM&usqp=CAU"  height="40"  >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uoxh_i09Kql4OVB5AjetPvijl-mxrxkTYpojSZnE1ktqBQPKiG67syvAYntqQO-_QhM&usqp=CAU"  width="40"  >
 
 </div>
 
   
-**React-Redux - NextJs - Jest - Tailwind - GitHub - NodeJs - JQuery - TypeScript - Docker .**
+**VueJS - Nuxt3 - Nuxt-test-utils - Tailwind - GitHub - NodeJs - TypeScript - Docker .**
+
+**Figma - Webflow .**
+
+**React-Redux - NextJs - Jest - GitHub - NodeJs - JQuery .**
 
 **MongoDB - Heroku - Netlify - Stripe - Firebase - Strapi - Cloudflare .**
 
@@ -37,7 +47,7 @@
 
 
 \*\*\* <span style="text-decoration: underline "> Now learning </span> :
-<strong> WEBDESIGN SKILLS </strong> //
+ <strong> AI embedded tech solutions </strong> // <strong> Webdesign </strong>
 
 
 
@@ -45,7 +55,8 @@
 
 #### **_Contact me for some new projects we could achieve together !  :_** 
 
-📞   06 14 80 25 74 || 📬   fr.panou@gmail.com.
+- 📞   06 14 80 25 74
+- 📬   fr.panou@gmail.com.
 <br/><br/>
 
 ### _Visit my website :_ 
@@ -55,15 +66,7 @@ https://franckpanoudeveloppeur.netlify.app/
 
 ### _Visit my projects :_
 
-<strong>
-TEAMIFY
-</strong> : https://teamify-me.web.app/
-(Please visit the repo for more infos about this project : https://github.com/FPan7792/teamify-project#readme).
-<br/><br/>
-<strong>NaruQuotes</strong> : https://naruquotes-app.vercel.app/
-(Please visit the repo for more infos about this project : https://github.com/FPan7792/NaruQuotes-App#readme).
-<br/><br/>
-<strong>Groupomania Social Network</strong>
+<strong>Groupomania Social Network (2021) </strong>
 (Please visit the repo for more infos about this project : https://github.com/FPan7792/Groupomania_App).
 <br/><br/>
 
